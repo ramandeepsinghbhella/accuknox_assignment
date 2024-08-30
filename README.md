@@ -5,7 +5,7 @@
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd social_network
+   cd accuknox_assignment
 
 2. **Build and run the Docker containers:**
    ```bash
